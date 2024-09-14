@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: my-python-app
-        image: 211223789150.dkr.ecr.us-east-1.amazonaws.com/my-python-repo
+        image: 339712934644.dkr.ecr.us-east-1.amazonaws.com/my-python-repo
         imagePullPolicy: Always
         ports:
         - containerPort: 5000
